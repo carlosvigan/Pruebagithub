@@ -16,6 +16,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		System.out.println("hola Fabio tonto");
 		System.out.println("hola Carlos");
+		System.out.println("estamos en clase de entornos de desarrollo");
 	}
 
 }
