@@ -14,7 +14,8 @@ public class Principal {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hola Carlos Fern·ndez GarcÌa");
+		System.out.println("Hola Carlos Fern√°ndez Garc√≠a");
+		System.out.println("Mi direccion es Calle La Paz");
 	}
 
 }
